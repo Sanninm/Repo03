@@ -3,8 +3,8 @@ function main (){
     
     
     var x = 10;
-    var y = 10;
-    var x = y;
+    var y = x;
+   
     
     // Only change code aboce this line
     return [x, y];
